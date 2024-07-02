@@ -15,7 +15,7 @@ const MyBanks = async () => {
       <div className="my-banks">
         <HeaderBox 
           title="My Bank Accounts"
-          subtext="Automated bookkeeping and 360 analytics accross your whole business."
+          subtext="Automated bookkeeping and 360 analytics accross your whole business"
         />
 
         <div className="space-y-4">
